@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e4719e903fa312c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "035e3652de7208e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PROBABILISTIC PROGRAMMING & BAYESIAN DL/3.Theories.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1defc77e8ff685f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6a39b2a2a0ba1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef984dd572d0a228",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7117eee6e5ba6655",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2e114ae698e216b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c2784b4dfbdd0c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc7d3b0ddcfeaaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROBABILISTIC PROGRAMMING & BAYESIAN DL/3.Theories.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "035e3652de7208e5",
+  "lastOpenFiles": [
+    "PROBABILISTIC PROGRAMMING & BAYESIAN DL/3.Theories.md",
+    "LOGISTIC REGRESSION/2.Implementation.md",
+    "LOGISTIC REGRESSION/2.Theories.md",
+    "_attachments/Pasted image 20220308182140.png",
+    "_attachments/Pasted image 20220307201408.png",
+    "_attachments/Pasted image 20220307200043.png",
+    "_attachments/Pasted image 20220301182415.png",
+    "Pasted image 20220307195334.png",
+    "Pasted image 20220307195307.png",
+    "LOGISTIC REGRESSION/2.Answers.md"
+  ]
+}
